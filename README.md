@@ -6,6 +6,9 @@ downloads.
 
 ## Workflow
 
+A sample ComfyUI workflow is included as `Florence-2-image-to-text.json`. Open
+it from ComfyUI or drag the JSON file onto the canvas.
+
 1. Load `Florence-2-base` or `Florence-2-pixelprose` with
    `Florence2ModelLoader`.
 2. Connect an image and the model to `Florence2Run`.
